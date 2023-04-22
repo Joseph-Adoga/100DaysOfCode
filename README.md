@@ -8,5 +8,8 @@ Day 1 - Band Name Generator
 
 
 
+
+
 Day 2 - Tip Calculator
+
 ![image](https://user-images.githubusercontent.com/76846789/233793345-2025864b-ff9b-47d2-81fe-4eacc3250652.png)
