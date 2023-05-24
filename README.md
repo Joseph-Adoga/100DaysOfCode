@@ -25,4 +25,4 @@ https://replit.com/@josephadoga/tip-calculator-start
 Day 3 - Treasure Island
 https://replit.com/@josephadoga/treasure-island-start
 
-![image](https://github.com/josephadoga/100DaysOfCode/assets/76846789/2f144991-a55d-4228-97d3-e32669ab1953)
+![image](https://github.com/josephadoga/100DaysOfCode/assets/76846789/18fa7fed-590c-4d14-897d-9448f19994ed)
