@@ -3,13 +3,26 @@
 
 
 Day 1 - Band Name Generator
+https://replit.com/@josephadoga/band-name-generator-start
 
-![image](https://user-images.githubusercontent.com/76846789/233792522-d6666df8-ca89-4370-b794-9eb977f18add.png)
+![image](https://github.com/josephadoga/100DaysOfCode/assets/76846789/48d7047d-7ca5-4155-b125-c279a55f0550)
+
+
 
 
 
 
 
 Day 2 - Tip Calculator
+https://replit.com/@josephadoga/tip-calculator-start
 
-![image](https://user-images.githubusercontent.com/76846789/233793345-2025864b-ff9b-47d2-81fe-4eacc3250652.png)
+![image](https://github.com/josephadoga/100DaysOfCode/assets/76846789/5aca1583-5d32-4df6-8b89-b6298d9789c1)
+
+
+
+
+
+Day 3 - Treasure Island
+https://replit.com/@josephadoga/treasure-island-start
+
+![image](https://github.com/josephadoga/100DaysOfCode/assets/76846789/2f144991-a55d-4228-97d3-e32669ab1953)
