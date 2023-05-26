@@ -5,7 +5,7 @@
 Day 1 - Band Name Generator
 https://replit.com/@josephadoga/band-name-generator-start
 
-![image](https://github.com/josephadoga/100DaysOfCode/assets/76846789/abb8aacc-0886-45f4-b77f-412e3aca6be9)
+![image](https://github.com/josephadoga/100DaysOfCode/assets/76846789/4959fc51-a3ad-4333-ae8b-9fbf4b47594e)
 
 
 
