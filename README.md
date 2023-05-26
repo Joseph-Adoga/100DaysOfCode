@@ -5,7 +5,7 @@
 Day 1 - Band Name Generator
 https://replit.com/@josephadoga/band-name-generator-start
 
-![image](https://github.com/josephadoga/100DaysOfCode/assets/76846789/48d7047d-7ca5-4155-b125-c279a55f0550)
+![image](https://github.com/josephadoga/100DaysOfCode/assets/76846789/abb8aacc-0886-45f4-b77f-412e3aca6be9)
 
 
 
@@ -16,7 +16,7 @@ https://replit.com/@josephadoga/band-name-generator-start
 Day 2 - Tip Calculator
 https://replit.com/@josephadoga/tip-calculator-start
 
-![image](https://github.com/josephadoga/100DaysOfCode/assets/76846789/5aca1583-5d32-4df6-8b89-b6298d9789c1)
+![image](https://github.com/josephadoga/100DaysOfCode/assets/76846789/41e8620d-99dd-450f-ad43-fd48c518d49d)
 
 
 
