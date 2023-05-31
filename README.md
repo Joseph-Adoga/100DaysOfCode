@@ -26,3 +26,12 @@ Day 3 - Treasure Island
 https://replit.com/@josephadoga/treasure-island-start
 
 ![image](https://github.com/josephadoga/100DaysOfCode/assets/76846789/909a0e0e-8b39-4dae-b5c9-d890cbd59eff)
+
+
+
+
+
+Day 4 - Rock Paper Scissors
+https://replit.com/@josephadoga/rock-paper-scissors-start
+
+![Day 4](https://github.com/josephadoga/100DaysOfCode/assets/76846789/5b9fc2fa-248d-487e-9a48-ecbff9b602c8)
