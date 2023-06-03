@@ -51,3 +51,17 @@ Project: Rock Paper Scissors.
 https://replit.com/@josephadoga/rock-paper-scissors-start
 
 ![Day 4](https://github.com/josephadoga/100DaysOfCode/assets/76846789/5b9fc2fa-248d-487e-9a48-ecbff9b602c8)
+
+
+
+
+
+Day 5
+
+Loops.
+
+Project: Password.
+https://replit.com/@josephadoga/password-generator-start
+
+![image](https://github.com/josephadoga/100DaysOfCode/assets/76846789/af268287-1b90-4a63-8218-af644ab4d2b6)
+
