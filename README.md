@@ -2,7 +2,7 @@
 
 
 
-Day 1
+# **Day 1**
 
 Working with Variables in Python to Manage Data.
 
@@ -18,7 +18,7 @@ https://replit.com/@josephadoga/band-name-generator-start
 
 
 
-Day 2
+# **Day 2**
 
 Understanding Data Types and How to Manipulate Strings.
 
@@ -32,7 +32,7 @@ https://replit.com/@josephadoga/tip-calculator-start
 
 
 
-Day 3
+# **Day 3**
 
 Control Flow and Logical Operators.
 
@@ -46,7 +46,7 @@ https://replit.com/@josephadoga/treasure-island-start
 
 
 
-Day 4
+# **Day 4**
 
 Randomisation and Python Lists.
 
@@ -60,7 +60,7 @@ https://replit.com/@josephadoga/rock-paper-scissors-start
 
 
 
-Day 5
+# **Day 5**
 
 Loops.
 
@@ -73,7 +73,7 @@ https://replit.com/@josephadoga/password-generator-start
 
 
 
-Day 6
+# **Day 6**
 
 Python Functions & Karel
 
