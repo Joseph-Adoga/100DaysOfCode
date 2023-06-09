@@ -80,6 +80,6 @@ Python Functions & Karel
 Project: Escaping the Maze(Reeborg's World)
 
 ![Day 6(3)](https://github.com/josephadoga/100DaysOfCode/assets/76846789/cfd1830e-7a9c-496c-ac71-b0c1eaaec37f)
-![Day 6(1)](https://github.com/josephadoga/100DaysOfCode/assets/76846789/bff5dfab-37cf-460b-b832-fa8ae0948ff8)
 ![Day 6(2)](https://github.com/josephadoga/100DaysOfCode/assets/76846789/22937dd3-08cd-427b-a6fe-61244aad1748)
+![Day 6(1)](https://github.com/josephadoga/100DaysOfCode/assets/76846789/bff5dfab-37cf-460b-b832-fa8ae0948ff8)
 ![Day 6 Escaping the Maze GIF](https://github.com/josephadoga/100DaysOfCode/assets/76846789/700dd060-bacd-4bdb-8b2f-5000aab6e5f5)
