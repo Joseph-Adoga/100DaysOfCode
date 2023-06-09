@@ -18,7 +18,7 @@ https://replit.com/@josephadoga/band-name-generator-start
 
 
 
-# **Day 2**
+## **Day 2**
 
 Understanding Data Types and How to Manipulate Strings.
 
