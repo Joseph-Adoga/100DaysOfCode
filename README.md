@@ -26,6 +26,7 @@ Project: Tip Calculator.
 https://replit.com/@josephadoga/tip-calculator-start
 
 ![image](https://github.com/josephadoga/100DaysOfCode/assets/76846789/41e8620d-99dd-450f-ad43-fd48c518d49d)
+![Day 7 - Hangman Video](https://github.com/josephadoga/100DaysOfCode/assets/76846789/56179f46-1eeb-46ca-a31e-e764f92fb3f0)
 
 
 
