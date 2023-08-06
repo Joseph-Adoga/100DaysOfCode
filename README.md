@@ -83,3 +83,16 @@ Project: Escaping the Maze(Reeborg's World)
 ![Day 6(2)](https://github.com/josephadoga/100DaysOfCode/assets/76846789/22937dd3-08cd-427b-a6fe-61244aad1748)
 ![Day 6(1)](https://github.com/josephadoga/100DaysOfCode/assets/76846789/bff5dfab-37cf-460b-b832-fa8ae0948ff8)
 ![Day 6 Escaping the Maze GIF](https://github.com/josephadoga/100DaysOfCode/assets/76846789/700dd060-bacd-4bdb-8b2f-5000aab6e5f5)
+
+
+
+
+
+## **Day 7**
+
+Hangman
+
+Project: Hangman
+https://replit.com/@josephadoga/Day-7-Hangman-5-Start
+
+![image](https://github.com/josephadoga/100DaysOfCode/assets/76846789/4fc01eb6-ca27-4231-9df1-505124a6d533)
