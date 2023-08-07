@@ -99,4 +99,3 @@ https://replit.com/@josephadoga/Day-7-Hangman-5-Start
 ![image](https://github.com/josephadoga/100DaysOfCode/assets/76846789/4fc01eb6-ca27-4231-9df1-505124a6d533)
 ![Day 7 - Hangman Video](https://github.com/josephadoga/100DaysOfCode/assets/76846789/ad51e7c1-df8f-4b1e-b54e-9ae46546df2b)
 ![Hangman Flow Chart](https://github.com/josephadoga/100DaysOfCode/assets/76846789/12399c8e-3645-44df-8201-5f2188193e4e)
-![Hangman Flow Chart drawio](https://github.com/josephadoga/100DaysOfCode/assets/76846789/f759180d-77da-463f-aaed-c7da2f8b1de5)
